@@ -1,8 +1,8 @@
 # Machine-Learning-projects
-https://www.kaggle.com/m2skills/datasets-and-tutorial-kernels-for-beginners
+repositary road map for ML https://www.kaggle.com/m2skills/datasets-and-tutorial-kernels-for-beginners
 
 
-https://youtu.be/E9_3tvkMiUM
+Titanic data analysis-https://youtu.be/E9_3tvkMiUM
 
 ```
 
