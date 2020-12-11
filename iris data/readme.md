@@ -1,4 +1,7 @@
-https://karanmehra7107.github.io/Machine-Learning-projects/iris%20data/index.html
+[EDA in Jupyter notebook](https://karanmehra7107.github.io/Machine-Learning-projects/iris%20data/index.html)
+[EDA in Tableu]()
+
+## Observations
 
 
 __Pair plot 4D__
