@@ -24,3 +24,11 @@ __Highest corelation__
 
 
 ![best outcome](https://user-images.githubusercontent.com/62024355/101923917-02ce4c00-3bf6-11eb-9d28-fb480d25693d.png)
+
+
+
+
+## Tableu Visulisation with Accuracy
+
+![image](https://user-images.githubusercontent.com/62024355/101943651-7b8ed180-3c11-11eb-9f39-382ef714ca83.png)
+
