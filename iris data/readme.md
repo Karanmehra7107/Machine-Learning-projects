@@ -1,7 +1,7 @@
 [EDA in Jupyter notebook](https://karanmehra7107.github.io/Machine-Learning-projects/iris%20data/index.html)
 
 
-[EDA in Tableu]()
+[EDA in Tableu](https://public.tableau.com/profile/karan6916#!/vizhome/Book1_16076268942200/Dashboard1?publish=yes)
 
 
 
