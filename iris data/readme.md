@@ -1,9 +1,6 @@
 [EDA in Jupyter notebook](https://karanmehra7107.github.io/Machine-Learning-projects/iris%20data/index.html)
 
 
-[EDA in Tableu](https://public.tableau.com/profile/karan6916#!/vizhome/Book1_16076268942200/Dashboard1?publish=yes)
-
-
 
 ## Observations
 
@@ -29,6 +26,10 @@ __Highest corelation__
 
 
 ## Tableu Visulisation with Accuracy
+
+[EDA in Tableu](https://public.tableau.com/profile/karan6916#!/vizhome/Book1_16076268942200/Dashboard1?publish=yes)
+
+
 
 ![image](https://user-images.githubusercontent.com/62024355/101943651-7b8ed180-3c11-11eb-9f39-382ef714ca83.png)
 
