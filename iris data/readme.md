@@ -1,4 +1,4 @@
-[EDA in Jupyter notebook](https://karanmehra7107.github.io/Machine-Learning-projects/iris%20data/index.html)
+https://www.kaggle.com/karanmehra/iris-dataset
 
 
 
