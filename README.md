@@ -9,6 +9,8 @@ Titanic data analysis-https://youtu.be/E9_3tvkMiUM
 ├── Classification projects
 │       ├──Iris dataset
 │       ├──Titanic dataset
+│       ├── Amazon books dataset
+│       ├── Google Playstore dataset
 ├── Regression projects
 ├── Data visulization 
 ├── CNN
