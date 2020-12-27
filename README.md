@@ -11,6 +11,7 @@ Titanic data analysis-https://youtu.be/E9_3tvkMiUM
 │       ├──Titanic dataset
 │       ├── Amazon books dataset
 │       ├── Google Playstore dataset
+│       ├── HR Analysis
 ├── Regression projects
 ├── Data visulization 
 ├── CNN
