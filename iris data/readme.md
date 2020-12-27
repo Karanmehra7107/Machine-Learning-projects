@@ -5,6 +5,13 @@ https://www.kaggle.com/karanmehra/iris-dataset
 ## Observations EDA
 
 
+__Domain knoladge__
+
+
+![unnamed](https://user-images.githubusercontent.com/62024355/103168620-c556f900-485a-11eb-8a91-73a34d0aac59.png)
+
+
+
 __Pair plot 4D__
 
 
