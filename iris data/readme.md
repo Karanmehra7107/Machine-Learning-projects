@@ -30,8 +30,9 @@ __Highest corelation__
 ![best outcome](https://user-images.githubusercontent.com/62024355/101923917-02ce4c00-3bf6-11eb-9d28-fb480d25693d.png)
 
 
-__Accuracy__
+__Accuracy test result__
 
+___Linear regression___
 
 ![image](https://user-images.githubusercontent.com/62024355/103153670-3b565400-47b8-11eb-8075-194a05613d96.png)
 
