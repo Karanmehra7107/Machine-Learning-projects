@@ -1,3 +1,6 @@
+![c86829391091](https://user-images.githubusercontent.com/62024355/104323157-d9ae1d80-550b-11eb-87bb-f06a0d301d40.jpg)
+
+
 # Machine-Learning-projects
 repositary road map for ML https://www.kaggle.com/m2skills/datasets-and-tutorial-kernels-for-beginners
 
